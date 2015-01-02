@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://happyniu1115.github.io/sitemap.xml 
